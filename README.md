@@ -2,7 +2,7 @@
  
    How to build ICS kernel for Galaxy-SII-HD-LTE-120L
  
- ========================================
+ ======================================== 
  
  
  (1) Create a directory for CM9 and initialize it:  
